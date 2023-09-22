@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Meet me Corinna Brungs and others on our Computational Mass Spectrometry Seminar Europe Tour 2023 and learn about: Mass Spectrometry Basics, Data Processing, Compound Annotation, Automated Spectral Library Generation, Molecular Networking, microbeMASST & MZmine. 
+Meet me, Corinna Brungs, and others on our Computational Mass Spectrometry Seminar Europe Tour 2023 and learn about: Mass Spectrometry Basics, Data Processing, Compound Annotation, Automated Spectral Library Generation, Molecular Networking, microbeMASST & MZmine. 
 Next stop: **[Munich Metabolomics Meeting](https://www.helmholtz-munich.de/en/munich-metabolomics-meeting-2023/program)** @Helmholtz Munich  
 
 Join our project **FAIRification of mass spectral libraries** at the Elixir BioHackathon in Barcelona (online/in person).
