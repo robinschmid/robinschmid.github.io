@@ -5,22 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
-\* indicates equal contribution
+\# indicates corresponding author \* indicates equal contribution   
+ 
+**On-tissue dataset-dependent MALDI-TIMS-MS2 bioimaging** 
+Heuckeroth S, Behrens A, Wolf C, Fütterer A, Nordhorn ID, Kronenberg K, Brungs C, Korf A, Richter H, Jeibmann A, Karst U, **Schmid R#** 
+Nature Communications. 2023;14: 7495. doi:10.1038/s41467-023-43298-9
+
+**A Taxonomically-informed Mass Spectrometry Search Tool for Microbial Metabolomics Data** 
+Zuffa S*, **Schmid R\***, Bauermeister A, Gomes PWP, Caraballo-Rodriguez AM, El Abiead Y, Aron AT, Gentry EC, Zemlin 
+J, Meehan MJ, Avalon NE, Cichewicz RH, Buzun E, Terrazas MC, Hsu C-Y, Oles R, Ayala AV, Zhao J, Chu H, Kuijpers MCM, Jackrel SL, Tugizimana F, Nephali LP, Dubery IA, Madala NE, Moreira EA, Costa-Lotufo LV, Lopes NP, Rezende-Teixeira P, Jimenez PC, Rimal B, Patterson AD, Traxler MF, de Cassia Pessotti R, Alvarado-Villalobos D, Tamayo-Castillo G, Chaverri P, Escudero-Leyva E, Quiros-Guerrero L-M, Bory AJ, Joubert J, Rutz A, Wolfender J-L, Allard P-M, Sichert A, Pontrelli S, Pullman BS, Bandeira N, Gerwick WH, Gindro K, Massana-Codina J, Wagner BC, Forchhammer K, Petras D, Aiosa N, Garg N, Liebeke M, Bourceau P, Kang KB, Gadhavi H, de Carvalho LPS, dos Santos MS, Pérez-Lorente AI, Molina-Santiago C, Romero D, Franke R, Brönstrup M, de León AVP, Pope PB, La Rosa SL, La Barbera G, Roager HM, Laursen MF, Hammerle F, Siewert B, Peintner U, Licona-Cassani C, Rodriguez-Orduña L, Rampler E, Hildebrand F, Koellensperger G, Schoeny H, Hohenwallner K, Panzenboeck L, Gregor R, O'Neill EC, Roxborough ET, Odoi J, Bale NJ, Ding S, Sinninghe Damsté JS, Guan XL, Cui JJ, Ju K-S, Silva DB, Silva FMR, da Silva GF, Koolen HHF, Grundmann C, Clement JA, Mohimani H, Broders K, McPhail KL, Ober-Singleton SE, Rath CM, McDonald D, Knight R, Wang M, Dorrestein PC 
+accepted (in production), 2023. Preprint: doi:10.1101/2023.07.20.549584
+
+**Open Access Repository-Scale Propagated Nearest Neighbor Suspect Spectral Library for Untargeted Metabolomics** 
+Bittremieux W, Avalon NE, Thomas SP, Kakhkhorov SA, Aksenov AA, Gomes PWP, Aceves CM, Caraballo-Rodríguez AM, Gauglitz JM, Gerwick WH, Huan T, Jarmusch AK, Kaddurah-Daouk RF, Kang KB, Kim HW, Kondić T, Mannochio-Russo H, Meehan MJ, Melnik AV, Nothias L-F, O'Donovan C, Panitchpakdi M, Petras D, **Schmid R**, Schymanski EL, van der Hooft JJJ, Weldon KC, Yang H, Xing S, Zemlin J, Wang M, Dorrestein PC 
+accepted (in production), 2023. Preprint: doi:10.1101/2022.05.15.490691
+
+**A multi-omics strategy for the study of microbial metabolism: application to the human skin's microbiome** 
+Nothias L-F, **Schmid R**, Garlet A, Cameron H, Leoty-Okombi S, André-Frei V, Fuchs R, Dorrestein PC, Ternes P 
+accepted (in production), 2023. Preprint: doi:10.1101/2023.03.26.532286
+
 
 **Evaluation of Data-Dependent MS/MS Acquisition Parameters for Non-Targeted Metabolomics and Molecular Networking of Environmental Samples: Focus on the Q Exactive Platform**    
 Stincone P, Pakkir Shah AK, **Schmid R**, Graves LG, Lambidis SP, Torres RR, Xia S-N, Minda V, Aron AT, Wang M, Hughes CC, Petras D    
 Analytical chemistry. 2023;95: 12673–12682. doi:10.1021/acs.analchem.3c01202
 
 **Integrative analysis of multimodal mass spectrometry data in MZmine 3**    
-**Schmid R***, Heuckeroth S*, Korf A*, Smirnov A, Myers O, Dyrlund TS, Bushuiev R, Murray KJ, Hoffmann N, Lu M, Sarvepalli A, Zhang Z, Fleischauer M, Dührkop K, Wesner M, Hoogstra SJ, Rudt E, Mokshyna O, Brungs C, Ponomarov K, Mutabdžija L, Damiani T, Pudney CJ, Earll M, Helmer PO, Fallon TR, Schulze T, Rivas-Ubach A, Bilbao A, Richter H, Nothias L-F, Wang M, Orešič M, Weng J-K, Böcker S, Jeibmann A, Hayen H, Karst U, Dorrestein PC, Petras D, Du X, Pluskal T    
+**Schmid R\***, Heuckeroth S*, Korf A*, Smirnov A, Myers O, Dyrlund TS, Bushuiev R, Murray KJ, Hoffmann N, Lu M, Sarvepalli A, Zhang Z, Fleischauer M, Dührkop K, Wesner M, Hoogstra SJ, Rudt E, Mokshyna O, Brungs C, Ponomarov K, Mutabdžija L, Damiani T, Pudney CJ, Earll M, Helmer PO, Fallon TR, Schulze T, Rivas-Ubach A, Bilbao A, Richter H, Nothias L-F, Wang M, Orešič M, Weng J-K, Böcker S, Jeibmann A, Hayen H, Karst U, Dorrestein PC, Petras D, Du X, Pluskal T    
 Nature biotechnology. 2023;41: 447–449. doi:10.1038/s41587-023-01690-2
 
 **Comparison of Cosine, Modified Cosine, and Neutral Loss Based Spectrum Alignment For Discovery of Structurally Related Molecules**    
-Bittremieux W*, **Schmid R***, Huber F, van der Hooft JJJ, Wang M, Dorrestein PC    
+Bittremieux W*, **Schmid R\***, Huber F, van der Hooft JJJ, Wang M, Dorrestein PC    
 Journal of the American Society for Mass Spectrometry. 2022;33: 1733–1744. doi:10.1021/jasms.2c00153
 
 **Tattoo Pigment Identification in Inks and Skin Biopsies of Adverse Reactions by Complementary Elemental and Molecular Bioimaging with Mass Spectral Library Matching**    
-Brungs C*, **Schmid R***, Wolf C, Berg T, Korf A, Heuckeroth S, Hayen H, van der Bent S, Maijer K, Rustemeyer T, Karst U    
+Brungs C*, **Schmid R\***, Wolf C, Berg T, Korf A, Heuckeroth S, Hayen H, van der Bent S, Maijer K, Rustemeyer T, Karst U    
 Analytical chemistry. 2022;94: 3581–3589. doi:10.1021/acs.analchem.1c04922
 
 **foodMASST a mass spectrometry search tool for foods and beverages**    
@@ -35,7 +53,7 @@ Aron AT, Petras D, **Schmid R**, Gauglitz JM, Büttel I, Antelo L, Zhi H, Nuccio
 Nature chemistry. 2022;14: 100–109. doi:10.1038/s41557-021-00803-1
 
 **Ion identity molecular networking for mass spectrometry-based metabolomics in the GNPS environment**    
-**Schmid R***, Petras D*, Nothias L-F*, Wang M, Aron AT, Jagels A, Tsugawa H, Rainer J, Garcia-Aloy M, Dührkop K, Korf A, Pluskal T, Kameník Z, Jarmusch AK, Caraballo-Rodríguez AM, Weldon KC, Nothias-Esposito M, Aksenov AA, Bauermeister A, Albarracin Orio A, Grundmann CO, Vargas F, Koester I, Gauglitz JM, Gentry EC, Hövelmann Y, Kalinina SA, Pendergraft MA, Panitchpakdi M, Tehan R, Le Gouellec A, Aleti G, Mannochio Russo H, Arndt B, Hübner F, Hayen H, Zhi H, Raffatellu M, Prather KA, Aluwihare LI, Böcker S, McPhail KL, Humpf H-U, Karst U, Dorrestein PC     
+**Schmid R\***, Petras D*, Nothias L-F*, Wang M, Aron AT, Jagels A, Tsugawa H, Rainer J, Garcia-Aloy M, Dührkop K, Korf A, Pluskal T, Kameník Z, Jarmusch AK, Caraballo-Rodríguez AM, Weldon KC, Nothias-Esposito M, Aksenov AA, Bauermeister A, Albarracin Orio A, Grundmann CO, Vargas F, Koester I, Gauglitz JM, Gentry EC, Hövelmann Y, Kalinina SA, Pendergraft MA, Panitchpakdi M, Tehan R, Le Gouellec A, Aleti G, Mannochio Russo H, Arndt B, Hübner F, Hayen H, Zhi H, Raffatellu M, Prather KA, Aluwihare LI, Böcker S, McPhail KL, Humpf H-U, Karst U, Dorrestein PC     
 Nature communications. 2021;12: 3832. doi:10.1038/s41467-021-23953-9
 
 **Feature-based molecular networking for identification of organic micropollutants including metabolites by non-target analysis applied to riverbank filtration**    
@@ -51,7 +69,7 @@ Nordhorn ID, Dietrich D, Verlemann C, Vennemann A, **Schmid R**, Elinkmann M, Fu
 Metallomics. 2021;13. doi:10.1093/mtomcs/mfab028
 
 **Feature-based molecular networking in the GNPS analysis environment**   
-Nothias L-F*, Petras D*, **Schmid R***, Dührkop K, Rainer J, Sarvepalli A, Protsyuk I, Ernst M, Tsugawa H, Fleischauer M, Aicheler F, Aksenov AA, Alka O, Allard P-M, Barsch A, Cachet X, Caraballo-Rodriguez AM, Da Silva RR, Dang T, Garg N, Gauglitz JM, Gurevich A, Isaac G, Jarmusch AK, Kameník Z, Kang KB, Kessler N, Koester I, Korf A, Le Gouellec A, Ludwig M, Martin H C, McCall L-I, McSayles J, Meyer SW, Mohimani H, Morsy M, Moyne O, Neumann S, Neuweger H, Nguyen NH, Nothias-Esposito M, Paolini J, Phelan VV, Pluskal T, Quinn RA, Rogers S, Shrestha B, Tripathi A, van der Hooft JJJ, Vargas F, Weldon KC, Witting M, Yang H, Zhang Z, Zubeil F, Kohlbacher O, Böcker S, Alexandrov T, Bandeira N, Wang M, Dorrestein PC     
+Nothias L-F*, Petras D*, **Schmid R\***, Dührkop K, Rainer J, Sarvepalli A, Protsyuk I, Ernst M, Tsugawa H, Fleischauer M, Aicheler F, Aksenov AA, Alka O, Allard P-M, Barsch A, Cachet X, Caraballo-Rodriguez AM, Da Silva RR, Dang T, Garg N, Gauglitz JM, Gurevich A, Isaac G, Jarmusch AK, Kameník Z, Kang KB, Kessler N, Koester I, Korf A, Le Gouellec A, Ludwig M, Martin H C, McCall L-I, McSayles J, Meyer SW, Mohimani H, Morsy M, Moyne O, Neumann S, Neuweger H, Nguyen NH, Nothias-Esposito M, Paolini J, Phelan VV, Pluskal T, Quinn RA, Rogers S, Shrestha B, Tripathi A, van der Hooft JJJ, Vargas F, Weldon KC, Witting M, Yang H, Zhang Z, Zubeil F, Kohlbacher O, Böcker S, Alexandrov T, Bandeira N, Wang M, Dorrestein PC     
 Nature methods. 2020;17: 905–908. doi:10.1038/s41592-020-0933-6
 
 **Reproducible molecular networking of untargeted mass spectrometry data using GNPS**   
@@ -102,25 +120,19 @@ Journal of chromatography A. 2017;1497: 64–69. doi:10.1016/j.chroma.2017.03.02
 
 \# indicates corresponding author \* indicates equal contribution   
 
-**On-tissue dataset-dependent MALDI-TIMS-MS2 bioimaging**   
-Heuckeroth S, Behrens A, Wolf C, Fütterer A, Nordhorn ID, Kronenberg K, Brungs C, Korf A, Richter H, Jeibmann A, Karst U, **Schmid R**#     
-ChemRxiv. 2023. doi:10.26434/chemrxiv-2023-nw5p3-v2
+**Mass spectrometry data processing in MZmine 3: feature detection and annotation** 
+Heuckeroth S, Damiani T, Smirnov A, Mokshyna O, Brungs C, Korf A, Smith J, Stincone P, Dreolin N, Nothias L-F, Hyötyläinen T, Orešič M, Karst U, Dorrestein P, Petras D, Du X, van der Hooft J, 
+**Schmid R#**, Pluskal T# 
+ChemRxiv. 2023. doi:10.26434/chemrxiv-2023-98n6q
 
-**A Taxonomically-informed Mass Spectrometry Search Tool for Microbial Metabolomics Data**   
-Zuffa S*, **Schmid R***, Bauermeister A, Gomes PWP, Caraballo-Rodriguez AM, El Abiead Y, Aron AT, Gentry EC, Zemlin J, Meehan MJ, Avalon NE, Cichewicz RH, Buzun E, Terrazas MC, Hsu C-Y, Oles R, Ayala AV, Zhao J, Chu H, Kuijpers MCM, Jackrel SL, Tugizimana F, Nephali LP, Dubery IA, Madala NE, Moreira EA, Costa-Lotufo LV, Lopes NP, Rezende-Teixeira P, Jimenez PC, Rimal B, Patterson AD, Traxler MF, de Cassia Pessotti R, Alvarado-Villalobos D, Tamayo-Castillo G, Chaverri P, Escudero-Leyva E, Quiros-Guerrero L-M, Bory AJ, Joubert J, Rutz A, Wolfender J-L, Allard P-M, Sichert A, Pontrelli S, Pullman BS, Bandeira N, Gerwick WH, Gindro K, Massana-Codina J, Wagner BC, Forchhammer K, Petras D, Aiosa N, Garg N, Liebeke M, Bourceau P, Kang KB, Gadhavi H, de Carvalho LPS, dos Santos MS, Pérez-Lorente AI, Molina-Santiago C, Romero D, Franke R, Brönstrup M, de León AVP, Pope PB, La Rosa SL, La Barbera G, Roager HM, Laursen MF, Hammerle F, Siewert B, Peintner U, Licona-Cassani C, Rodriguez-Orduña L, Rampler E, Hildebrand F, Koellensperger G, Schoeny H, Hohenwallner K, Panzenboeck L, Gregor R, O'Neill EC, Roxborough ET, Odoi J, Bale NJ, Ding S, Sinninghe Damsté JS, Guan XL, Cui JJ, Ju K-S, Silva DB, Silva FMR, da Silva GF, Koolen HHF, Grundmann C, Clement JA, Mohimani H, Broders K, McPhail KL, Ober-Singleton SE, Rath CM, McDonald D, Knight R, Wang M, Dorrestein PC     
-bioRxiv. 2023. p. 2023.07.20.549584. doi:10.1101/2023.07.20.549584
- 
-**Open Access Repository-Scale Propagated Nearest Neighbor Suspect Spectral Library for Untargeted Metabolomics**   
-Bittremieux W, Avalon NE, Thomas SP, Kakhkhorov SA, Aksenov AA, Gomes PWP, Aceves CM, Caraballo-Rodríguez AM, Gauglitz JM, Gerwick WH, Huan T, Jarmusch AK, Kaddurah-Daouk RF, Kang KB, Kim HW, Kondić T, Mannochio-Russo H, Meehan MJ, Melnik AV, Nothias L-F, O'Donovan C, Panitchpakdi M, Petras D, **Schmid R**, Schymanski EL, van der Hooft JJJ, Weldon KC, Yang H, Xing S, Zemlin J, Wang M, Dorrestein PC     
-bioRxiv. 2023. p. 2022.05.15.490691. doi:10.1101/2022.05.15.490691
+**The Hitchhiker’s Guide to Statistical Analysis of Feature-based Molecular Networks from Non-Targeted Metabolomics Data** 
+Pakkir Shah AK, Walter A, Ottosson F, Russo F, Navarro-Díaz M, Boldt J, Kalinski J-C, Kontou EE, Elofson J, Polyzois A, González-Marín C, Farrell S, Aggerbeck MR, Pruksatrakul T, Chan N, Wang Y, Pöchhacker M, Brungs C, Cámara B, Caraballo-Rodríguez AM, Cumsille A, de Oliveira F, Dührkop K, El Abiead Y, Geibel C, Graves LG, Hansen M, Heuckeroth S, Knoblauch S, Kostenko A, Kuijpers MCM, Mildau K, Lambidis SP, Gomes PWP, Schramm T, Steuer-Lodd K, Stincone P, Tayyab S, Vitale GA, Wagner BC, Xing S, Yazzie MT, Zuffa S, de Kruijff M, Beemelmanns C, Link H, Mayer C, van der Hooft JJJ, Damiani T, Pluskal T, Dorrestein PC, Stanstrup J, **Schmid R**, Wang M, Aron AT, Ernst M, Petras D 
+ChemRxiv. 2023. doi:10.26434/chemrxiv-2023-wwbt0
+
 
 **The Underappreciated Diversity of Bile Acid Modifications**   
 Mohanty I, Mannochio-Russo H, El Abiead Y, Schweer JV, Bittremieux W, Xing S, **Schmid R**, Zuffa S, Vasquez F, Muti VB, Zemlin J, Tovar-Herrera OE, Moraïs S, Desai D, Amin S, Koo I, Turck CW, Mizrahi I, Huan T, Patterson AD, Siegel D, Hagey LR, Wang M, Aron AT, Dorrestein P    
 SSRN, 2023. doi:10.2139/ssrn.4436846
-
-**A multi-omics strategy for the study of microbial metabolism: application to the human skin's microbiome**   
-Nothias L-F, **Schmid R**, Garlet A, Cameron H, Leoty-Okombi S, André-Frei V, Fuchs R, Dorrestein PC, Ternes P    
-bioRxiv. 2023. doi:10.1101/2023.03.26.532286
 
 **Two-Dimensional Liquid Chromatography Tandem-Mass Spectrometry Untangles the Deep Metabolome of Marine Dissolved Organic Matter**   
 Lambidis SP, Schramm T, Steuer-Lodd K, Farrell S, Stincone P, **Schmid R**, Koester I, Torres R, Aluwihare L, Simon C, Petras D     
