@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Corinna and my MZmine EU Workshop Tour 2023 concluded successfully. So there are going to be more workshops next 
+Corinna and my mzmine EU Workshop Tour 2023 and our small mzmine Asia tour 2024 concluded successfully. So there are going to be more workshops next 
 year on Computational Mass Spectrometry. Join and learn more about: Mass Spectrometry Basics, Data Processing, Compound Annotation, Automated Spectral Library 
-Generation, Molecular Networking, microbeMASST & MZmine.
-
-Your next chance to join will by in April in Prague. 
+Generation, Molecular Networking, microbeMASST & mzmine. 
 
 
 ## About
@@ -21,7 +19,7 @@ I am a food chemist and PhD in analytical chemistry working as a postdoctoral re
 
 My research interests lie at the intersection of **mass spectrometry** (MS), **metabolomics**, and **data science**. I have always been fascinated by the analytical power of modern mass spectrometry, especially for non-target analysis and the discovery and elucidation of small molecules (<2000 Da) in complex samples. My food and analytical chemistry background gave me the technical skills and hands-on experience with high-end molecular and elemental mass spectrometry instruments that supported my scientific projects. In my research, I combine this practical knowledge with my passion for data science and programming to create new analytical methods, along with computational MS algorithms and open-source software.
 
-Since 2019, I have led the [MZmine](https://www.mzmine.org/) open-source project as its chief architect. MZmine reached its status as one of the most cited mass spectrometry and metabolomics tools by its ease of use, processing speeds, and interactive user interfaces. Further, we expanded its capabilities by developing a workflow for **integrative analysis of multimodal mass spectrometry data**, combining LC-IMS-MS and IMS-MS imaging in the same tool. Read more in the corresponding [Nature Biotechnology publication](https://www.nature.com/articles/s41587-023-01690-2).
+Since 2019, I have led the [mzmine](https://www.mzmine.org/) open-source project as its chief architect. mzmine reached its status as one of the most cited mass spectrometry and metabolomics tools by its ease of use, processing speeds, and interactive user interfaces. Further, we expanded its capabilities by developing a workflow for **integrative analysis of multimodal mass spectrometry data**, combining LC-IMS-MS and IMS-MS imaging in the same tool. Read more in the corresponding [Nature Biotechnology publication](https://www.nature.com/articles/s41587-023-01690-2).
 
 
 ## Spotlight
